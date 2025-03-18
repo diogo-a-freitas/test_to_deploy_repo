@@ -1,0 +1,27 @@
+# data science
+numpy
+pandas
+
+transformers
+torch
+pytesseract
+scikit-learn
+
+# tensorflow==2.15    # For both Intel and Apple silicon
+
+google-cloud-storage
+
+python-dotenv
+
+fastapi
+uvicorn
+requests
+
+#clean text
+nltk
+textblob
+
+spotipy
+
+#feather files
+pyarrow
